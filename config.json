@@ -1,0 +1,16 @@
+{
+    "title": "graphic design is my passion",
+    "window-width": 800,
+    "window-height": 600,
+    "background-color": [
+        255,
+        255,
+        255
+    ],
+    "font": "Comic Sans MS",
+    "text-color": [
+        200,
+        0,
+        0
+    ]
+}

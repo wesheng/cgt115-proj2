@@ -10,6 +10,8 @@ splash_text = [
     'much text wow'
 ]
 
+print('stuff')
+
 config = {
     'title': 'graphic design is my passion',
     'window-width': 800,
